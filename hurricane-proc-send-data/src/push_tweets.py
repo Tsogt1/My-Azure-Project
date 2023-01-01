@@ -11,7 +11,7 @@ load_dotenv()
 # AUTH_VALUE = os.getenv("AUTH_VALUE")
 AUTH_VALUE = "Basic dXNlcm5hbWVhcGltOkpdIkMiR35fN0MqS0puPA=="
 # OCP_APIM_SUBSCRIPTION_VALUE = os.getenv("OCP_APIM_SUBSCRIPTION_VALUE")
-OCP_APIM_SUBSCRIPTION_VALUE = "7fe879abfeef43d08b08f418c81a19c9"
+OCP_APIM_SUBSCRIPTION_VALUE = "7fe879..." #Subscription key removed
 # URL = f"{HURRICANE_API_URL}"
 URL = "https://tsogt-dev-dataeng-apim.azure-api.net/tsogt-dev-dataeng-FA/HttpTriggerTweetsToBlobAndEventHub"
 
